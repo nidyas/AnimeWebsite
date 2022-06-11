@@ -1,0 +1,81 @@
+body {
+  background-color:aliceblue;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.img{
+  width: 200px;
+ 
+}
+.head{
+  background: rgb(2,0,36);
+ 
+  ;
+}
+.list{
+  color: aliceblue;
+  display: flex;
+  justify-content:space-evenly;
+  overflow: hidden;
+  list-style: none;
+  font-size: 25px;
+  font-family: cursive;
+  background: -webkit-linear-gradient(#eee, rgb(243, 0, 0));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  cursor: pointer;
+
+}
+.SearchBar{
+  display: flex;
+  justify-content: center;
+  margin: -0.5rem;
+  padding: 1%;
+  
+}
+.Foot{
+  height: 200px;
+  background: rgb(2,0,36);
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: center
+  
+  
+}
+.AllL{
+  color: aliceblue;
+  display: flex;
+  justify-content:space-evenly;
+  overflow: hidden;
+  list-style: none;
+  font-size: 25px;
+  font-family: cursive;
+  background: -webkit-linear-gradient(#eee, rgb(243, 0, 0));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  cursor: pointer;
+}
+.SmallL{
+  color: aliceblue;
+  display: flex;
+  justify-content:space-evenly;
+  overflow: hidden;
+  list-style: none;
+  font-size: 25px;
+  font-family: cursive;
+  background: -webkit-linear-gradient(#eee, rgb(243, 0, 0));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  cursor: pointer;
+}
+

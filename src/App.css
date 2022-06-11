@@ -1,0 +1,7 @@
+.imgg{
+ width: 600px;
+ height: 150px;
+ display: flex;
+ align-self: flex-start;
+
+}
